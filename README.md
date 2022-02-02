@@ -1,15 +1,17 @@
-# Einführung in die Statistik für Wirtschafts- und Sozialwissenschaften I–II
+# Lecture notes: Einführung in die Statistik für Wirtschafts- und Sozialwissenschaften I–II
 
-- Authoren: Michael Mayer und Dirk Klingbiel
-- Version: Herbstsemester 2016 und Frühjahrssemester 2017
-- Datum: 28. August 2016
+Lecture notes of the introductory lecture in statistics for students in economic and social sciences held between 2010 and 2017 by Dirk Klingbiel and Michael Mayer. 
 
-[](title.png)
+Methods are accompanied with R code and output.
 
 ## Copyright
 
-This lecture is being distributed under the [creative commons license](https://creativecommons.org/licenses/by/2.0/).
+These lecture notes are being distributed under the [creative commons license](https://creativecommons.org/licenses/by/2.0/).
 
 ## How to cite?
 
-Michael Mayer and Dirk Klingbiel (2016). "Einführung in die Statistik für Wirtschafts- und Sozialwissenschaften I–II". Vorlesungsskript. Web: https://github.com/mayer79/Statistikskript_WiSo
+Michael Mayer and Dirk Klingbiel (2016). "Einführung in die Statistik für Wirtschafts- und Sozialwissenschaften I–II". Lecture notes. Web: https://github.com/mayer79/Statistikskript_WiSo
+
+## Title page
+
+![](title.png)
